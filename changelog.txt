@@ -1,3 +1,7 @@
+<font color="#FF9800" size="4"><b>Версия 1.7:</b></font><br>
+<br>
+• Изменён интерфейс лаунчера<br>
+<br>
 <font color="#FF9800" size="4"><b>Версия 1.6:</b></font><br>
 <br>
 • Добавлен тир лист в DNA<br>
