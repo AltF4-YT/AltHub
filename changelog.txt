@@ -7,7 +7,7 @@
 <br>
 • Изменён интерфейс лаунчера<br>
 • Сломалось автообновление<br>
-<font color="red" size="4">Версии выше необходимо скачать с GitHub:</font><br>
+<font color="red" size="4">Версии выше необходимо скачать с GitHub</font><br>
 <br>
 <font color="#FF9800" size="4"><b>Версия 1.6:</b></font><br>
 <br>
