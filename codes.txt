@@ -1,15 +1,16 @@
 <font color="#FF9800" size="4"><b>Активные коды 1.0:</b></font><br>
+(Нажми на код, чтобы скопировать)<br>
 <br>
-DNAGIFT<br>
-DNABYSSGIFT<br>
-DNALAUNCH<br>
-EPICGAMESDNA<br>
-DENAABINIJI<br>
-DNAGLOBAL<br>
-DNALIVE<br>
+<a href="copy:DNAGIFT" style="color:#50fa7b; text-decoration:none;"><b>DNAGIFT</b></a><br>
+<a href="copy:DNABYSSGIFT" style="color:#50fa7b; text-decoration:none;"><b>DNABYSSGIFT</b></a><br>
+<a href="copy:DNALAUNCH" style="color:#50fa7b; text-decoration:none;"><b>DNALAUNCH</b></a><br>
+<a href="copy:EPICGAMESDNA" style="color:#50fa7b; text-decoration:none;"><b>EPICGAMESDNA</b></a><br>
+<a href="copy:DENAABINIJI" style="color:#50fa7b; text-decoration:none;"><b>DENAABINIJI</b></a><br>
+<a href="copy:DNAGLOBAL" style="color:#50fa7b; text-decoration:none;"><b>DNAGLOBAL</b></a><br>
+<a href="copy:DNALIVE" style="color:#50fa7b; text-decoration:none;"><b>DNALIVE</b></a><br>
 <br>
 <font color="#FF9800" size="4"><b>Стрим 1.1:</b></font><br>
-HUAXUAWAITS<br>
-THEWINDAWAKENING<br>
-DNA20251223<br>
+<a href="copy:HUAXUAWAITS" style="color:#50fa7b; text-decoration:none;"><b>HUAXUAWAITS</b></a><br>
+<a href="copy:THEWINDAWAKENING" style="color:#50fa7b; text-decoration:none;"><b>THEWINDAWAKENING</b></a><br>
+<a href="copy:DNA20251223" style="color:#50fa7b; text-decoration:none;"><b>DNA20251223</b></a><br>
 <font color="red" size="4">Действительны до: 24 декабря 18:59 (МСК)</font><br>
