@@ -1,6 +1,6 @@
 ![Github All Releases](https://img.shields.io/github/downloads/AltF4-YT/AltHub/total.svg?style=for-the-badge&color=orange)
 ![AltHub Banner](banner.png)
-# 🌌 AltHub — All-in-One Scripts for Duet Night Abyss
+# 🌌 AltHub — Scripts for Duet Night Abyss
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.9-green.svg)
