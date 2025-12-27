@@ -33,9 +33,9 @@
 
 ## 📸 Скриншоты
 <p align="center">
-  <img width="831" height="498" alt="AltHub" src="https://github.com/user-attachments/assets/19ff42a5-7e10-4ab5-b5fb-334db346c821" />
-<img width="651" height="884" alt="farm" src="https://github.com/user-attachments/assets/db2e6093-8875-4e26-8b72-2cb8e8651f75" />
- <img width="396" height="750" alt="fish" src="https://github.com/user-attachments/assets/adb68ae8-2020-4589-9a9f-2c9bf5d9fa78" />
+  <img alt="AltHub" src="https://github.com/user-attachments/assets/6cb939df-391f-443c-9ec6-15acb9e5d341" width="32%" />
+  <img alt="farm" src="https://github.com/user-attachments/assets/db2e6093-8875-4e26-8b72-2cb8e8651f75" width="32%" />
+  <img alt="fish" src="https://github.com/user-attachments/assets/adb68ae8-2020-4589-9a9f-2c9bf5d9fa78" width="32%" />
 </p>
 
 ---
