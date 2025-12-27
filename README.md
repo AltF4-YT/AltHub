@@ -31,4 +31,4 @@
 
 1. **Просто скачайте и распакуйте последнюю версию:**
    ```bash
-   git clone https://github.com/AltF4-YT/AltHub/releases
+   https://github.com/AltF4-YT/AltHub/releases
