@@ -20,6 +20,17 @@
 
 ---
 
+<p align="center">
+  <a href="https://t.me/altf4games5">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@AltF4x">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 📸 Скриншоты
 <p align="center">
   <img width="831" height="498" alt="AltHub" src="https://github.com/user-attachments/assets/19ff42a5-7e10-4ab5-b5fb-334db346c821" />
